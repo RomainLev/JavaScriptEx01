@@ -12,4 +12,4 @@ else {
   reponse = 'Null';
 }
 
-alert(reponse);
+document.write("<h1>" + reponse + "</h1>");
